@@ -6,8 +6,7 @@ Projeto que utiliza Vue, JavaScript, HTML5, CSS3, Axios para as requisições HT
 2. Primeriro, inicialize a API com o comando 'npm run dev'
 3. Em seguida, utilize o comando 'npm run dev' na pasta ES6
 
-##Imagens
-
+## Imagens
 
 ![Captura de tela de 2022-01-14 17-25-16](https://user-images.githubusercontent.com/54656065/149587307-071da97a-01e3-46fb-bd77-d20cceb29250.png)
 
