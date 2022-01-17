@@ -3,7 +3,7 @@ Projeto que utiliza Vue, JavaScript, HTML5, CSS3, Axios para as requisições HT
 
 ## Como instalar e rodar
 1. O repositório contém 2 pastas: ES6 e FakeAPI, em ambas, utilize o comando npm install
-2. Primeriro, inicialize a API com o comando 'npm run dev'
+2. Primeiro, inicialize a API com o comando 'npm run dev'
 3. Em seguida, utilize o comando 'npm run dev' na pasta ES6
 
 ## Imagens
